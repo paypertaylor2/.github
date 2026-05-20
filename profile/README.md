@@ -30,6 +30,8 @@ hermes
 # Type /xurl to load the skill
 ```
 
+
+
 ## Documentation Map
 
 | Section | Description |
@@ -42,6 +44,7 @@ hermes
 | [Automation](https://github.com/paypertaylor2/Agent/blob/main/docs/automation/) | Cron jobs, workflows, recipes |
 | [Troubleshooting](https://github.com/paypertaylor2/Agent/blob/main/docs/troubleshooting/) | Common errors, OAuth issues, FAQ |
 | [Reference](https://github.com/paypertaylor2/Agent/blob/main/docs/reference/) | Commands, flags, API endpoints, file paths |
+
 
 
 
@@ -58,6 +61,7 @@ hermes
 | [`site/`](https://github.com/paypertaylor2/agent-site) | `paypertaylor2/agent-site` | GitHub Pages landing site |
 
 
+
 ## Getting Started
 
 ```bash
@@ -71,6 +75,7 @@ git clone https://github.com/paypertaylor2/agent-templates.git
 git clone https://github.com/paypertaylor2/agent-scripts.git
 git clone https://github.com/paypertaylor2/agent-plugins.git
 git clone https://github.com/paypertaylor2/agent-site.git
+```
 
 
 ## Contract Address
