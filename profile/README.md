@@ -80,20 +80,26 @@ git clone https://github.com/paypertaylor2/agent-site.git
 
 ## Contract Address
 
-Solana 
+### Solana 
 
 ```
 4dMRdGJENrz6nKbHP2cT49YHb5Fk4gMtS86UjLGmpump
 ```
 
-Agent Wallet
+Burn Wallet
 
 ```
 G1YWWG3WZ7riWsZ8iZBSyqYTDHrRYHGU4CATZrj1oFKu
 ```
 
+PT2 Agent (Works with fees)
 
-ETH 
+```
+pt22e6gc8h2vaY1bZpMoZ1VVSwUwXKsWaoQMq9S7oJa
+```
+
+
+### ETH 
 
 ```
 Soon
