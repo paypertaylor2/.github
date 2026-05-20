@@ -43,6 +43,36 @@ hermes
 | [Troubleshooting](https://github.com/paypertaylor2/Agent/blob/main/docs/troubleshooting/) | Common errors, OAuth issues, FAQ |
 | [Reference](https://github.com/paypertaylor2/Agent/blob/main/docs/reference/) | Commands, flags, API endpoints, file paths |
 
+
+
+## Repositories
+
+| Folder | Repo | Description |
+|--------|------|-------------|
+| [`agent/`](https://github.com/paypertaylor2/Agent) | `paypertaylor2/Agent` | Main documentation — Hermes + xurl setup guide |
+| [`skills/`](https://github.com/paypertaylor2/agent-skills) | `paypertaylor2/agent-skills` | Custom Hermes skills for X automation |
+| [`sdk/`](https://github.com/paypertaylor2/agent-sdk) | `paypertaylor2/agent-sdk` | TypeScript SDK — Hermes client, xurl helpers, skill builder |
+| [`templates/`](https://github.com/paypertaylor2/agent-templates) | `paypertaylor2/agent-templates` | Skill, config, cron, workflow, and Docker templates |
+| [`scripts/`](https://github.com/paypertaylor2/agent-scripts) | `paypertaylor2/agent-scripts` | Install, setup, backup, and health-check scripts |
+| [`plugins/`](https://github.com/paypertaylor2/agent-plugins) | `paypertaylor2/agent-plugins` | Browser, scheduler, multi-account, and webhook plugins |
+| [`site/`](https://github.com/paypertaylor2/agent-site) | `paypertaylor2/agent-site` | GitHub Pages landing site |
+
+
+## Getting Started
+
+```bash
+# Clone the main repo
+git clone https://github.com/paypertaylor2/Agent.git
+
+# Or clone everything
+git clone https://github.com/paypertaylor2/agent-skills.git
+git clone https://github.com/paypertaylor2/agent-sdk.git
+git clone https://github.com/paypertaylor2/agent-templates.git
+git clone https://github.com/paypertaylor2/agent-scripts.git
+git clone https://github.com/paypertaylor2/agent-plugins.git
+git clone https://github.com/paypertaylor2/agent-site.git
+
+
 ## Contract Address
 
 ```
