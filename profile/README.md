@@ -34,19 +34,19 @@ hermes
 
 | Section | Description |
 |---------|-------------|
-| [Prerequisites](https://paypertaylor2.github.io/Agent/docs/prerequisites/) | System requirements, accounts, subscriptions |
-| [Installation](https://paypertaylor2.github.io/Agent/docs/installation/) | Hermes + xurl install for all platforms |
-| [Configuration](https://paypertaylor2.github.io/Agent/docs/configuration/) | Setup wizard, providers, models, messaging |
-| [Authentication](https://paypertaylor2.github.io/Agent/docs/authentication/) | xAI OAuth + X API OAuth 2.0 |
-| [xurl Skill](https://paypertaylor2.github.io/Agent/docs/xurl-skill/) | Full skill reference — post, read, interact, automate |
-| [Automation](https://paypertaylor2.github.io/Agent/docs/automation/) | Cron jobs, workflows, recipes |
-| [Troubleshooting](https://paypertaylor2.github.io/Agent/docs/troubleshooting/) | Common errors, OAuth issues, FAQ |
-| [Reference](https://paypertaylor2.github.io/Agent/docs/reference/) | Commands, flags, API endpoints, file paths |
+| [Prerequisites](https://github.com/paypertaylor2/Agent/blob/main/docs/prerequisites.md) | System requirements, accounts, subscriptions |
+| [Installation](https://github.com/paypertaylor2/Agent/blob/main/docs/installation/) | Hermes + xurl install for all platforms |
+| [Configuration](https://github.com/paypertaylor2/Agent/blob/main/docs/configuration/) | Setup wizard, providers, models, messaging |
+| [Authentication](https://github.com/paypertaylor2/Agent/blob/main/docs/authentication/) | xAI OAuth + X API OAuth 2.0 |
+| [xurl Skill](https://github.com/paypertaylor2/Agent/blob/main/docs/xurl-skill/) | Full skill reference — post, read, interact, automate |
+| [Automation](https://github.com/paypertaylor2/Agent/blob/main/docs/automation/) | Cron jobs, workflows, recipes |
+| [Troubleshooting](https://github.com/paypertaylor2/Agent/blob/main/docs/troubleshooting/) | Common errors, OAuth issues, FAQ |
+| [Reference](https://github.com/paypertaylor2/Agent/blob/main/docs/reference/) | Commands, flags, API endpoints, file paths |
 
 ## Contract Address
 
 ```
-[SOON]
+[CA]
 ```
 
 ## Tags
@@ -62,4 +62,3 @@ See [CONTRIBUTING.md](https://github.com/paypertaylor2/Agent/blob/main/.github/C
 MIT
 
 ![Footer](https://i.ibb.co/PvL5MxxN/61dfe41b-2509-45c8-9442-817b1c66e1d9.png)
-
