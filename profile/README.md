@@ -34,19 +34,19 @@ hermes
 
 | Section | Description |
 |---------|-------------|
-| [Prerequisites](docs/prerequisites.md) | System requirements, accounts, subscriptions |
-| [Installation](docs/installation/) | Hermes + xurl install for all platforms |
-| [Configuration](docs/configuration/) | Setup wizard, providers, models, messaging |
-| [Authentication](docs/authentication/) | xAI OAuth + X API OAuth 2.0 |
-| [xurl Skill](docs/xurl-skill/) | Full skill reference — post, read, interact, automate |
-| [Automation](docs/automation/) | Cron jobs, workflows, recipes |
-| [Troubleshooting](docs/troubleshooting/) | Common errors, OAuth issues, FAQ |
-| [Reference](docs/reference/) | Commands, flags, API endpoints, file paths |
+| [Prerequisites](https://paypertaylor2.github.io/Agent/docs/prerequisites/) | System requirements, accounts, subscriptions |
+| [Installation](https://paypertaylor2.github.io/Agent/docs/installation/) | Hermes + xurl install for all platforms |
+| [Configuration](https://paypertaylor2.github.io/Agent/docs/configuration/) | Setup wizard, providers, models, messaging |
+| [Authentication](https://paypertaylor2.github.io/Agent/docs/authentication/) | xAI OAuth + X API OAuth 2.0 |
+| [xurl Skill](https://paypertaylor2.github.io/Agent/docs/xurl-skill/) | Full skill reference — post, read, interact, automate |
+| [Automation](https://paypertaylor2.github.io/Agent/docs/automation/) | Cron jobs, workflows, recipes |
+| [Troubleshooting](https://paypertaylor2.github.io/Agent/docs/troubleshooting/) | Common errors, OAuth issues, FAQ |
+| [Reference](https://paypertaylor2.github.io/Agent/docs/reference/) | Commands, flags, API endpoints, file paths |
 
 ## Contract Address
 
 ```
-[CA]
+[SOON]
 ```
 
 ## Tags
@@ -55,10 +55,11 @@ hermes
 
 ## Contributing
 
-See [CONTRIBUTING.md](.github/CONTRIBUTING.md). Issues and guide requests welcome.
+See [CONTRIBUTING.md](https://github.com/paypertaylor2/Agent/blob/main/.github/CONTRIBUTING.md). Issues and guide requests welcome.
 
 ## License
 
 MIT
 
 ![Footer](https://i.ibb.co/PvL5MxxN/61dfe41b-2509-45c8-9442-817b1c66e1d9.png)
+
